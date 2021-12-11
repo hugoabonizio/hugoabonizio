@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h1>Scientific papers</h1>
+      <h1>Publications</h1>
 
 - [Google Scholar](https://scholar.google.com/citations?user=yZvUzSoAAAAJ)
 
